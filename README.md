@@ -1,6 +1,6 @@
 # About-Me
 
-<h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" alt="waving hand" width="35" height="35"/> I'm Mahavir-2003</h1>
+<h1 align="center">Hi <img src="https://img.icons8.com/clouds/100/000000/so-so.png" alt="waving hand" width="35" height="35"/> I'm Mahavir-2003</h1>
 <h3 align="center">A passionate student & developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazycoder26&label=Profile%20views&color=0e75b6&style=flat" alt="lazycoder26" /> </p>

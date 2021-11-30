@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋,I'm Mahavir-2003</h1>
 <h3 align="center">A passionate student & developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazycoder26&label=Profile%20views&color=0e75b6&style=flat" alt="lazycoder26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahavir-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Mahavir-2003" /> </p>
 
 - 🌱 I’m currently learning Web Devlopment
 - 🌱 I've Learned HTML,CSS & JS
